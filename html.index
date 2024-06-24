@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Platypus Tribute Page</title>
+  <link rel="stylesheet" href="styles.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap" rel="stylesheet">
+</head>
+<body>
+  <main id="main">
+    <h1 id="title">Platypus</h1>
+    <div id="img-div">
+      <img id="image" src="https://museumsvictoria.com.au/media/16781/platypus-closeup.jpg" alt="Tribute Image">
+      <figcaption id="img-caption">Platypus Looks at You <i>Menacingly</i></figcaption>
+    </div>
+    <div id="tribute-info">
+      <p>Fan Facts</p>
+      <ul>
+        <li>Platypuses don't have stomachs. They have a gullet that connects directly to their intestines, like some other animals.</li>
+        <li>A platypus's bill has thousands of cells that allow it to detect electric fields, giving it a "sixth sense" for hunting.</li>
+        <li>The platypus is a monotreme, meaning "single hole" in Greek, referring to its cloaca that serves as the exit for bodily wastes and eggs/sperm.</li>
+        <li>Female platypuses nurse their young without nipples, releasing milk through abdominal gland ducts for the babies to lap up.</li>
+        <li>Male platypuses have venomous spurs on their hind legs used for fending off rivals during mating season.</li>
+        <li>Platypuses have webbed feet with retractable webbing to aid swimming but expose claws on land.</li>
+        <li>When the first platypus specimen reached England, scientists thought it was an elaborate hoax.</li>
+        <li>Platypuses ingest gravel to use as makeshift teeth for grinding food.</li>
+        <li>A platypus uses its tail mainly for fat storage, but females also use it to incubate eggs.</li>
+        <li>The platypus is considered "near-threatened" due to habitat loss and water pollution impacting its freshwater environments.</li>
+        <li>Platypuses are protected by Australian law, with heavy penalties for capturing or killing them outside of approved research.</li>
+        <li>They're protected by Australian law. If you see a wild platypus, you cannot capture or kill it except for approved scientific research, with major fines for violations.</li>
+    </div>
+    <a id="tribute-link" href="https://www.mentalfloss.com/article/63062/10-curious-and-quirky-platypus-facts" target="_blank">Read More Here</a>
+  </main>
+</body>
+</html>
